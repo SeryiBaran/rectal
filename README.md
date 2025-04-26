@@ -10,9 +10,45 @@
 
 ![Demo Screenshot](./readme_assets/demo_screenshot.jpg)
 
-Rectal reactivity for VanillaJS in 429 bytes! (`gzip -c dist/index.mjs | wc -c`)
+Rectal ~~re~~ **activity** in 429 bytes! (`gzip -c dist/index.mjs | wc -c`)
 
 Look to [./test/index.test.ts](./test/index.test.ts) for code samples
+
+## Supported Frameworks
+
+```plaintext
+- Vanilla
+- Vue
+- React
+- Preact
+- Angular
+- Solid
+- Svelte
+- Qwik
+- Lit
+- Astro
+- Next
+- Nuxt
+- Easy integration with:
+  - KnockoutJS
+  - Backbone
+  - Angular.js
+  - Angular
+  - RxJS
+  - Elm
+  - React
+  - s-js
+  - Redux
+  - Redux Toolkit
+  - Mobx
+  - Focal
+  - XState
+  - Reatom
+  - Tanstack Query
+  - Zustand
+  - Recoil
+  - MOL
+```
 
 ## License
 
