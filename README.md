@@ -62,7 +62,7 @@ Look to [./test/index.test.ts](./test/index.test.ts) for code samples
 [npm-downloads-href]: https://npmjs.com/package/rectal
 [bundle-src]: https://img.shields.io/bundlephobia/minzip/rectal?style=flat&colorA=080f12&colorB=1fa669&label=minzip
 [bundle-href]: https://bundlephobia.com/result?p=rectal
-[license-src]: https://img.shields.io/github/license/antfu/rectal.svg?style=flat&colorA=080f12&colorB=1fa669
-[license-href]: https://github.com/antfu/rectal/blob/main/LICENSE
+[license-src]: https://img.shields.io/github/license/SeryiBaran/rectal.svg?style=flat&colorA=080f12&colorB=1fa669
+[license-href]: https://github.com/SeryiBaran/rectal/blob/main/LICENSE
 [jsdocs-src]: https://img.shields.io/badge/jsdocs-reference-080f12?style=flat&colorA=080f12&colorB=1fa669
 [jsdocs-href]: https://www.jsdocs.io/package/rectal
