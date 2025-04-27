@@ -10,7 +10,7 @@
 
 ![Demo Screenshot](./readme_assets/demo_screenshot.jpg)
 
-Rectal ~~re~~ **activity** in 429 bytes! (`gzip -c dist/index.mjs | wc -c`)
+**Re**ctal **Activity** in 429 bytes! (`gzip -c dist/index.mjs | wc -c`)
 
 Look to [./test/index.test.ts](./test/index.test.ts) for code samples
 
